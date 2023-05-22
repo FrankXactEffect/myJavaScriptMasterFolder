@@ -1,0 +1,10 @@
+
+BMI - user interface design;
+adding modal from bootstrap;
+DOM (document object model)
+the boot- element - (html);
+get class element by (.name of class);
+get element id
+
+get element by class:
+HMTL collection is an array like structure
